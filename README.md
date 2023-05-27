@@ -1,1 +1,2 @@
-# coursera_repo
+# Coursera Repository
+Used for upload coursera assignments.
